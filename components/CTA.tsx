@@ -46,7 +46,7 @@ export default function CTA() {
           </button>
 
           <p className="mt-3 text-xs text-white/80">
-            This form is UI-only (no backend). Connect it to your API later.
+            Hi.
           </p>
         </form>
       </div>
